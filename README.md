@@ -1,74 +1,74 @@
 # 👨‍💻 Juan Esteban Montoya Marín  
-### 🚀 Estudiante de Análisis y Desarrollo de Software (ADSO) – SENA
+### 🚀 Software Analysis and Development (ADSO) Student – SENA
 
-¡Hola! 👋  
-Soy estudiante de **ADSO en el SENA**, actualmente en mi **tercer trimestre**, apasionado por el desarrollo de software y en constante aprendizaje.  
-Me caracterizo por ser **disciplinado, curioso y muy dedicado** a mejorar cada día como desarrollador.
+Hello! 👋  
+I am a **Software Analysis and Development (ADSO) student at SENA**, currently in my **third trimester**, passionate about software development and constantly learning.  
+I consider myself **disciplined, curious, and highly dedicated** to improving every day as a developer.
 
 ---
 
-## 🧠 Sobre mí
-- 🎓 Estudiante de **Análisis y Desarrollo de Software (ADSO)**
+## 🧠 About Me
+- 🎓 Student of **Software Analysis and Development (ADSO)**
 - 🏫 **SENA**
-- 📚 Trimestre: **III**
-- 💪 Enfocado en mejorar mis habilidades técnicas y lógicas
-- 🔍 Me gusta entender **el porqué de las cosas**, no solo que funcionen
+- 📚 Trimester: **III**
+- 💪 Focused on improving my technical and logical skills
+- 🔍 I like to understand **why things work**, not just make them work
 
 ---
 
-## 🛠️ Tecnologías que estoy aprendiendo
+## 🛠️ Technologies I’m Learning
 
-### 💻 Lenguajes
-- ☕ **Java** (principal)
+### 💻 Languages
+- ☕ **Java** (main language)
 - 🐍 **Python**
-- 🌐 **HTML** (básico)
-- 🎨 **CSS** (básico)
+- 🌐 **HTML** (basic)
+- 🎨 **CSS** (basic)
 
 ---
 
-### 🧰 Herramientas & Entorno
+### 🧰 Tools & Environment
 - 🐙 Git & GitHub  
 - 💻 Git Bash  
-- 🧠 Programación orientada a objetos (POO)  
-- 📂 Estructuración de proyectos  
-- 🧪 Resolución de ejercicios lógicos  
+- 🧠 Object-Oriented Programming (OOP)  
+- 📂 Project structuring  
+- 🧪 Logical problem solving  
 
 ---
 
-## 📁 Contenido de este repositorio
-En este repositorio encontrarás:
-- Ejercicios prácticos en **Java**
-- Prácticas de lógica de programación
-- Ejercicios académicos del **SENA**
-- Organización por carpetas y temas
-- Código escrito con fines **educativos y de aprendizaje**
+## 📁 Repository Content
+In this repository you will find:
+- Practical exercises in **Java**
+- Programming logic exercises
+- Academic assignments from **SENA**
+- Organized folders by topics
+- Code written for **educational and learning purposes**
 
 ---
 
-## 🎯 Objetivos
-- Convertirme en un **desarrollador de software profesional**
-- Dominar **Java y Python**
-- Aprender desarrollo **backend y full stack**
-- Construir proyectos reales y escalables
-- Conseguir mi primer empleo en tecnología 💼
+## 🎯 Goals
+- Become a **professional software developer**
+- Master **Java and Python**
+- Learn **backend and full stack** development
+- Build real and scalable projects
+- Get my first job in tech 💼
 
 ---
 
-## 🧑‍💻 Mentalidad Dev
-> *“Primero funciona, luego se mejora, después se optimiza.”*
+## 🧑‍💻 Dev Mindset
+> *“First make it work, then improve it, then optimize it.”*
 
-- ✔ Aprender todos los días  
-- ✔ Practicar más de lo que consumo teoría  
-- ✔ No rendirme cuando algo no funciona  
-- ✔ Commit a commit, error a error  
-
----
-
-## 📬 Contacto
-- GitHub: ⭐ *Este repositorio*
-- Siempre abierto a aprender y mejorar 🚀
+- ✔ Learn every day  
+- ✔ Practice more than I consume theory  
+- ✔ Never give up when something doesn’t work  
+- ✔ Commit by commit, error by error  
 
 ---
 
-### ⚡ Gracias por visitar mi repositorio  
-Si estás aprendiendo también… **vas por buen camino** 💪🔥
+## 📬 Contact
+- GitHub: ⭐ This repository  
+- Always open to learning and improving 🚀  
+
+---
+
+### ⚡ Thanks for visiting my repository  
+If you're learning too… **you’re on the right path** 💪🔥
